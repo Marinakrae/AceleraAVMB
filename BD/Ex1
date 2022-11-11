@@ -1,4 +1,4 @@
-#Crie uma tabela para armazenar livros
+#Crie uma tabela para armazenar seus livros
 
 create table Livros (
 	id_livro integer CONSTRAINT pk_id_autor PRIMARY KEY,
